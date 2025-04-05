@@ -1,0 +1,52 @@
+table{
+    width:100%;
+    height: 98vh;
+}
+td{width:5.5%;
+    height:10%;
+   padding:5px;}
+
+   #logo img{ width: 90px;}
+
+   body{
+    background-color:rgba(25, 30, 62, 1);
+    margin: 0px;
+ }
+
+ #linha_superior{
+    background-color: rgb(77 82 113);}
+
+    #escrita1{
+        background-color: antiquewhite;
+        font-size: 20px;
+    }
+
+    #cesta-de-compras{
+        text-align: center;
+    }
+
+#escrita2{
+    font-size: 25px;
+    color:darkgray;
+}
+
+#preco{
+    background-color: antiquewhite;
+     text-align: center;
+}
+
+#sobre {
+    text-align: center;
+ }
+ 
+ #produtos{
+     text-align: center;
+ }
+ 
+ #contato{
+     text-align: center;
+ }
+
+ #cesta-de-compras{
+    text-align: center;
+}
